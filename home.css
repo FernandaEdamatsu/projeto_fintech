@@ -1,0 +1,144 @@
+@import url("https://use.typekit.net/ffx6mgt.css");
+
+.navbar-toggler{
+	border-color: #fff;
+	background-color: #fff;}
+
+.navbar{
+	background-color: #041C2C;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10%;
+	padding-right: 10%;}
+
+.navbar-brand{
+	width: 150px;
+	margin-right: 20px;}
+
+.nav-link{
+	font-family: filson-pro, sans-serif;
+	color: #fff !important;}
+
+.nav-link.active{
+	font-family: filson-pro, sans-serif;
+	color: #576575 !important;
+	font-weight: 700;}
+
+#button1{
+	border-radius: 40px;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	background-color: #f4128f;
+	border-color: #f4128f;}
+
+/*BLOCO 1*/
+
+.bloco1{
+	background-color: #041c2c;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	padding-left: 10%;
+	padding-right: 10%;}
+
+h1{
+	font-family: filson-pro, sans-serif;
+	color: #fff;
+	font-size: 3em;
+	font-weight: 700;
+	padding-bottom: 10px;}
+
+#button2{
+	padding: 10px 25px 10px 25px;
+	background-color: #f6f728;
+	border-radius: 40px;
+	border-color: #f6f728;
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	color: #304353;}
+
+.arte-bloco1{
+	width: 400px;
+	padding-top: 20px;}
+
+/*BLOCO 2*/
+
+.bloco2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 10%;
+	padding-right: 10%;}
+
+.arte-bloco2{
+	width: 400px;
+	padding-bottom: 20px;}
+
+h2{
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	color: #f4128f;}
+
+.bloco2 p{
+	font-family: filson-pro, sans-serif;
+	font-weight: lighter;
+	color: #576575}
+
+#button3{
+	padding: 10px 25px 10px 25px;
+	background-color: #576575;
+	border-radius: 40px;
+	border-color: #576575;
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	color: #fff;}
+
+/*BLOCO 3*/
+
+.bloco3{
+	background-color: #304353;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 10%;
+	padding-right: 10%}
+
+h3{
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	color: #f6f728;
+}
+
+.bloco3 p{
+	font-family: filson-pro, sans-serif;
+	font-weight: lighter;
+	color: #fff}
+
+.form-label{
+	font-family: filson-pro, sans-serif;
+	color:  #fff;}
+
+input,textarea{
+	font-family: filson-pro, sans-serif;}
+
+.btn.enviar{
+	background-color: #f6f728;
+	border-color: #f6f728;
+	border-radius: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	color: #041c2c;}
+
+/*FOOTER*/
+
+div.footer{
+	text-align: center;
+	background-color: #f4128f;
+	padding-bottom: 20px;
+	padding-top: 20px;}
+
+.footer img{
+	width: 200px;
+}

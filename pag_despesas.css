@@ -1,0 +1,130 @@
+@import url("https://use.typekit.net/ffx6mgt.css");
+
+html{
+	height: 100%;
+  	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body{
+	position: relative;
+  	margin: 0;
+  	padding-bottom: 80px;
+  	min-height: 100%;}
+
+.navbar-toggler{
+	border-color: #fff;
+	background-color: #fff;}
+
+.navbar{
+	background-color: #041C2C;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10%;
+	padding-right: 10%;}
+
+.navbar-brand{
+	width: 150px;
+	margin-right: 20px;}
+
+.nav-link{
+	font-family: filson-pro, sans-serif;
+	color: #fff !important;}
+
+.nav-link.active{
+	font-family: filson-pro, sans-serif;
+	color: #576575 !important;
+	font-weight: 700;}
+
+#button1{
+	border-radius: 40px;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	background-color: #f4128f;
+	border-color: #f4128f;}
+
+/*BLOCO 1*/
+
+.title{
+	background-color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 10%;
+	padding-right: 10%;}
+
+.col h1{
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	color: #576575;}
+
+.col p{
+	font-family: filson-pro, sans-serif;
+	font-weight: lighter;
+	color: #576575;
+	text-align: right;}
+
+.bi-filter-circle{
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+/* TABELA */
+
+.tabela{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 50px;}
+
+.table-group-divider{
+	border-top-color: #F6F728;}
+
+th{
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	font-size: 1.5em;
+	color: #041C2C;}
+
+td{
+	font-family: filson-pro, sans-serif;
+	font-weight: lighter;
+	color: #576575 !important;}
+
+#button2{
+	border-radius: 40px;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: filson-pro, sans-serif;
+	font-weight: 700;
+	background-color: #F6F728;
+	border-color: #F6F728;
+	color: #041C2C;
+	margin-top: 20px;}
+
+
+/*FOOTER*/
+
+div.footer{
+	text-align: center;
+	background-color: #f4128f;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: absolute;
+	height: 80px;}
+
+.footer img{
+	width: 200px;
+	align-content: center;}
